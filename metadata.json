@@ -1,0 +1,6 @@
+{
+  "name": "JalSaakshya",
+  "description": "Objective, time-stamped, geo-tagged crop flood damage evidence creation app for farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
